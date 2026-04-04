@@ -1,4 +1,4 @@
- # 💫 About Me:
+# 💫 About Me:
 👩‍💻 B.Tech graduate working as a Junior AI/ML Engineer, focused on building practical, real-world systems.<br>🚀 Working on AI-driven solutions, including price negotiation systems and intelligent workflows.<br>🤝 Open to collaborating on projects in AI/ML, backend development, and GenAI.<br>🧠 Work primarily with FastAPI, Python, and scalable backend architectures to solve real problems.<br>🌱 Continuously improving in LLMs, system design, and production-ready AI workflows.<br>💬 Happy to discuss AI/ML projects, backend systems, or negotiation logic.<br>⚡ I like taking complex ideas and turning them into simple, working solutions
 
 
